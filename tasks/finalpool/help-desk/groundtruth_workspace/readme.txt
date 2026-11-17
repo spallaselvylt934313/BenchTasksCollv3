@@ -1,1 +1,1 @@
-Groundtruth data for help-desk
+help-desk groundtruth workspace
